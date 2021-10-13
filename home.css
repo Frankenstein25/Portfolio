@@ -71,7 +71,7 @@ p {
 .brand h1 {
 	font-size: 3rem;
 	text-transform: uppercase;
-	color: white;
+	color:rgb(220, 190, 20);
 }
 .brand h1 span {
 	color: rgb(220, 190, 20);
@@ -88,7 +88,7 @@ p {
 }
 #header .header {
 	min-height: 8vh;
-	background-color: rgba(31, 30, 30, 0.24);
+	background-color: rgba(31, 30, 30, 0.54);
 	transition: 0.3s ease background-color;
 }
 #header .nav-bar {
@@ -103,7 +103,7 @@ p {
 #header .nav-list ul {
 	list-style: none;
 	position: absolute;
-	background-color: rgb(31, 30, 30);
+	background-color: rgb(31, 30, 30,);
 	width: 100vw;
 	height: 100vh;
 	left: 100%;
